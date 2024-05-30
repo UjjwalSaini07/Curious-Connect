@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Todo: Done From Curious Ecosystem
 // import React from 'react';
 // import CDC from '../../../assets/Landing-Page-Assets/CDC.jpg';
@@ -153,6 +154,8 @@
 
 
 // Todo: Prefect Motion text Make For Commit
+=======
+>>>>>>> 5336877d03a995062a09e6a997b98e4fdbb9fddc
 
 import { motion } from 'framer-motion';
 import React from 'react';
@@ -209,7 +212,12 @@ const OurProducts = () => {
         initial="hidden"
         animate="visible"
       >
+<<<<<<< HEAD
         <a href="#">
+=======
+{/* 	      After Website Domain Register Add this here at href section */}
+        <a href="#"> 
+>>>>>>> 5336877d03a995062a09e6a997b98e4fdbb9fddc
           <img
             src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=36&pause=1000&color=F7F7F7&random=false&width=610&height=60&lines=Explore+More+of+Our+Products"
             alt="Typing SVG"
