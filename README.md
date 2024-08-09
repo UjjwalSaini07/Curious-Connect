@@ -10,31 +10,46 @@ Curious Connect is your go-to platform for revolutionizing virtual collaboration
 </p>
 
 ## 📑Table of Contents
-
-- [Getting Started](#getting-started)
-- [How Can I Contribute?](#how-can-i-contribute)
-  - [Team Onboarding](#team-onboarding)
-  - [Contributing Guidelines](#contributing-guidelines)
-    - [Reporting Bugs](/CONTRIBUTING.md#bug-reporting)
-    - [Suggesting Enhancements](/CONTRIBUTING.md#suggesting-enhancements)
-    - [Working on Issues](/CONTRIBUTING.md#working-on-issues)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
+ - [Getting Started](#getting-started)
+ - [How Can I Contribute?](#how-can-i-contribute)
+   - [Team Onboarding](#team-onboarding)
+   - [Contributing Guidelines](#contributing-guidelines)
+     - [Reporting Bugs](/CONTRIBUTING.md#bug-reporting)
+     - [Suggesting Enhancements](/CONTRIBUTING.md)
+     - [Working on Issues](/CONTRIBUTING.md#working-on-issues)
+ - [Code of Conduct](/CODE_OF_CONDUCT.md)
+ - [License](/LICENSE.md)
 
 ## 🚀Getting Started
 
 ### Prerequisites
+
 - Ensure you have an IDE installed on your local machine.
+- Fork the repository
+- Clone your forked repository locally:
+```bash
+  git clone https://github.com/Curious-Ecosystem/Curious-Connect.git
 
-1). Fork the repository on GitHub.
-2). Clone your forked repository locally:
- `git clone https://github.com/Curious-Ecosystem/Curious-Connect.git`
-3). Change your directory to the project: `cd CURIOUS-CONNECT`
-4). For the instructions in the [Project Setup](docs/Project_Setup.md) documentation to install the rquired dependencies and set up your development environment. 
+```
+- Change your directory to the project:
+```bash
+  cd CURIOUS-CONNECT
 
-By following these steps, you'll have a local copy of the Curious Connect project ready for development. For more detailed information, refer to our [Documentation](docs/Overview.md)
+```
 
+- For the instructions in the [Project Setup](docs/Project_Setup.md) documentation to install the rquired dependencies and set up your development environment.
 
+- Install the necessary dependencies:
+```bash
+  npm install
+```
+- Start the NodeJS server:
+
+- Start the development server
+```bash
+ npm start
+ ```
+- Open your browser and navigate to http://localhost:5173 to view the website
 ## 🤝How Can I Contribute?
 
 ### 🌟Team Onboarding
@@ -43,6 +58,7 @@ By following these steps, you'll have a local copy of the Curious Connect projec
 ### 📜Contributing Guidelines
 
 - Before you start contributing, please take a moment to read our [Contributing guidelines](./CONTRIBUTING.md) to ensure a smooth and effective contribution process.
+- Then Start the Journey of Open Source
 
 ## 📝Code of Conduct
 
@@ -58,7 +74,49 @@ This project is licensed under the [BSD 4-Clause](./LICENSE.md) license.
 ## Our Contributors
 We appreciate your contributions and look forward to collaborating with you!
 
- 
+## Issue Resolved By
+
+### 1 [Aman Kumar Gupta :](https://github.com/AmanGupta2626)
+
+<ol>
+<li>Implemented Footer Section </li>
+<li>Implemented FAQ Section </li>
+<li>Implemented Signin/signup page  </li>
+<li>Implemented authentication using firebase </li>
+<li>Added caption part which convert speech to text </li>
+
+### 1. [Sheetal Tyagi :](https://github.com/Sheetal-04)
+
+<ol>
+<li>Implemented Meeting Cards.<li>
+<li>Implemented Scrollbar based on theme<li>
+<li>Implemented Smooth Scrolling<li>
+</ol>
+
+## Issue Resolved By 
+### 1. [Domeshwer Sahu :](https://github.com/domesh-is-Coding) 
+<ol>
+    <li>User Avatar for Meeting Participants</li>
+    <li>UI for Multiple Participants</li>
+    <li>Implemented Random Avatar Color For Each Participants</li>
+    <li>Merged Joining Window with Meeting Room UI</li>
+    <li>Enhanced Functionalities of Joining Window</li>
+    <li>Added Feature for Selecting User Media (i.e. Camera & Microphone) Dynamically.</li>
+    <li>Enhanced Functionalities of Meeting Room Page.</li>
+
+</ol>
+
+
+### 2. [Ayush Kansal](https://github.com/ayush031)
+<ol>
+  <li>Enhanced UI Design for About Page using Framer-Motion</li>
+  <li>Added Header and Background Sparkle to the About Header</li>
+  <li>Integrated Marqee Effect to the Features Section</li>
+  <li>Added Investor Cards with Conditional Renderi</li>
+  <li>Integrated the Infinited Cards using Aceternity UI </li>
+  <li>Added Maps Address </li>
+</ol>
+
 <h2 align = "center">Our Contributors❤️</h2>
 <div align = "center">
 
